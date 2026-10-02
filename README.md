@@ -1,16 +1,21 @@
-## Hi there 👋
+**IAM Analyst **
 
-<!--
-**BayisaZ/BayisaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at  identity & access management building enterprise IAM solutions: SSO, MFA, automated provisioning, and application integration.
 
-Here are some ideas to get you started:
+🚀 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Enterprise IAM and identity lifecycle management
+- 🔑 SSO with SAML, OAuth 2.0, OpenID Connect
+- 🔌 Custom connectors and enterprise integrations
+- 🤖 AI and agentic systems for IAM automation
+
+ 🛠️ Tech
+
+**IAM & Security:** `EmpowerID` `Active Directory` `CyberArk PAM` `SAML` `OAuth 2.0` `OIDC` `MFA`
+**Development:** `C#` `.NET` `Python` `SQL` `REST APIs` `Git`
+**Data & Infrastructure:** `SQL Server` `Oracle` `IIS` `Windows Server`
+
+📌 Projects
+
+- **IAM & Identity Integration:** SSO, custom connectors, and IAM automation
+- **Network Intrusion Detection:** ML-based detection of Network Intrusion
